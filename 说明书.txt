@@ -1,0 +1,5 @@
+idman642build41.exe					：IDM安装包
+IDM-Activation-Script-main.zip		：激活工具运行名为IAS.cmd
+GithubIDM链接						：https://github.com/lstprjct/IDM-Activation-Script?tab=readme-ov-file
+百度网盘直链Github链接					：https://github.com/hmjz100/LinkSwift
+Motrix-1.8.19-win.zip				：Motrix安装包
